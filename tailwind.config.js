@@ -7,6 +7,7 @@ module.exports = {
       'lightpink': '#F5CAC3',
       'green': '#84A59D',
       'darkpink': '#EF6D6A',
+      'darkgreen': '#24312D',
     },
     extend: {},
   },
