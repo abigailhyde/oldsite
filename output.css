@@ -480,10 +480,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   height: 12rem;
 }
 
-.h-4\/5 {
-  height: 80%;
-}
-
 .w-full {
   width: 100%;
 }
@@ -535,10 +531,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 .py-5 {
   padding-top: 1.25rem;
   padding-bottom: 1.25rem;
-}
-
-.pl-7 {
-  padding-left: 1.75rem;
 }
 
 .pb-2 {
